@@ -4,7 +4,7 @@ Bienvenido al repositorio base de **C&M Engineering**.
 
 ## ¿Quiénes somos?
 
-En **Sky Software**, somos una organización especializada en la elaboración de software a la medida. Nos enfocamos en ofrecer soluciones tecnológicas personalizadas que se adapten a las necesidades específicas de nuestros clientes, garantizando calidad, innovación y eficiencia.
+En *+C&M Engineering**, somos una organización especializada en la elaboración de software a la medida. Nos enfocamos en ofrecer soluciones tecnológicas personalizadas que se adapten a las necesidades específicas de nuestros clientes, garantizando calidad, innovación y eficiencia.
 
 ## ¿Qué encontrarás en este repositorio?
 
