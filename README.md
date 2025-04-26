@@ -16,7 +16,7 @@ Este repositorio base está diseñado para servir como punto de partida para los
 
 ## Contribuciones
 
-Si eres parte de **Sky Software** y deseas contribuir, sigue estas pautas:
+Si eres parte de **C&M Engineering** y deseas contribuir, sigue estas pautas:
 
 1. Crea un branch para tu contribución.
 2. Asegúrate de seguir las buenas prácticas establecidas.
